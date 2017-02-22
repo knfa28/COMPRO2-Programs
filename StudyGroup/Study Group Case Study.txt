@@ -1,0 +1,8 @@
+In a study group, members can attend study sessions (keep track of how many sessions they have attended). 
+Tutors are members who have specific specialty subjects. They can hold sessions and study a subject, thus adding it to their specialties.
+
+A session focuses on particular topics in a course. It can have multiple members and tutors but the total number of members and tutors cannot exceed an amount set by the tutor.
+
+As for the study group, members can be added; tutors can be added; members can be promoted to tutors. Members can leave the group as well as tutors. All sessions must be kept track of.
+
+Create a class diagram for this problem. =) Implementation is optional.
